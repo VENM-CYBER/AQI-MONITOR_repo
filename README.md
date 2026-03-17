@@ -35,7 +35,7 @@ Python 3.8+
 
 ⚙️ Installation
 1️⃣ Clone the repository
-git clone https://github.com/your-username/air-quality-monitor.git
+git clone https://github.com/VENM-CYBER/AQI-MONITOR_repo?
 cd air-quality-monitor
 2️⃣ Setup Backend
 cd backend
