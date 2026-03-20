@@ -135,7 +135,7 @@ Passionate about AI, Web Development & Smart Systems
 
 🔗 Deployment
 
-🚀 Live Demo: (Add your deployed link here)
+🚀 Live Demo: ( http://localhost:3000 )
 
 🤝 Contributors
 
