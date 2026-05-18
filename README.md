@@ -1,142 +1,47 @@
-🌍 Air Quality Monitor (AQI Visualizer)
+<div align="center">
 
-A modern full-stack web application for monitoring, analyzing, and predicting Air Quality Index (AQI) across multiple cities with interactive charts and AI-powered insights.
+# 🌍 AQI VISUALIZER  
+### *Smart Air Quality Monitoring System*
 
-✨ Features
+<img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge&logo=flask" />
+<img src="https://img.shields.io/badge/AI-Powered-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Responsive-3D_UI-purple?style=for-the-badge" />
 
-🌆 View AQI for multiple cities
+### ⚡ Real-Time AQI Analysis • AI Prediction • Interactive 3D Dashboard
 
-📊 Interactive visualizations:
+</div>
 
-Line chart for AQI trends over time
+---
 
-Bar chart for pollutant levels (PM2.5, PM10, etc.)
+## ✨ Features
 
-Area chart for AQI variation
+🚀 Multi-city AQI Monitoring  
+📊 Interactive 3D Charts & Analytics  
+🤖 AI-powered AQI Prediction  
+🔍 Smart City Search  
+📱 Fully Responsive Modern UI  
+⚡ Fast Full-Stack Performance  
 
-Pie chart for pollution distribution
+---
 
-🤖 AI-based AQI prediction system
+## 🛠 Tech Stack
 
-🔍 Smart city search functionality
+**Frontend**  
+React.js • Tailwind CSS • Recharts  
 
-📱 Fully responsive UI with modern design
+**Backend**  
+Flask • REST API  
 
-⚡ Fast performance with React + Flask backend
+**AI / ML**  
+Scikit-learn  
 
-🚀 Getting Started
-📋 Prerequisites
+---
 
-Node.js 18.x or higher
+## 📷 Dashboard Preview
 
-npm or yarn
-
-Python 3.8+
-
-⚙️ Installation
-1️⃣ Clone the repository
-git clone https://github.com/VENM-CYBER/AQI-MONITOR_repo?
-cd air-quality-monitor
-2️⃣ Setup Backend
-cd backend
-pip install -r requirements.txt
-python app.py
-3️⃣ Setup Frontend
-cd frontend
-npm install
-npm start
-🌐 Open in Browser
-http://localhost:3000
-📡 Usage
-
-Search for a city to view AQI data
-
-View interactive charts and pollution insights
-
-Check predicted AQI using AI model
-
-Analyze trends and pollution levels
-
-📊 Expected Data Format
-
-Your dataset/API should include:
-
-Required Fields:
-
-City – Name of the city
-
-AQI – Air Quality Index value
-
-Optional Fields:
-
-PM2.5 – Fine particulate matter
-
-PM10 – Coarse particulate matter
-
-NO2 / SO2 / CO – Pollutant levels
-
-Date/Time – Timestamp for trends
-
-📄 Sample Data Format
-city,aqi,pm25,pm10,date
-Delhi,180,95,150,2024-01
-Mumbai,120,60,110,2024-02
-Kolkata,140,80,130,2024-03
-Chennai,90,40,70,2024-04
-🧪 Sample Data
-
-You can include a sample dataset in the /data or /public folder for testing.
-
-🛠️ Technologies Used
-
-Frontend: React.js / Next.js
-
-Backend: Flask (Python)
-
-Charts: Chart.js / Recharts
-
-Machine Learning: Scikit-learn / LightGBM
-
-API: REST API
-
-Styling: CSS / Tailwind
-
-🏗️ Build for Production
-npm run build
-npm start
-📌 Future Improvements
-
-🌐 Real-time AQI API integration
-
-🔔 Smart AQI alerts & notifications
-
-📱 Mobile app version
-
-🧠 Advanced ML prediction models
-
-🌍 Global AQI heatmap
-
-📄 License
-
-MIT
-
-👨‍💻 About
-
-Built with ❤️ by Archit Deep
-Passionate about AI, Web Development & Smart Systems
-
-📊 Project Stats
-
-⭐ Stars: 0
-
-🍴 Forks: 0
-
-👀 Watchers: 0
-
-🔗 Deployment
-
-🚀 Live Demo: ( http://localhost:3000 )
-
-🤝 Contributors
-
-@VENM-CYBER (Archit Deep)
+```bash
+Live AQI Trends
+Pollutant Analytics
+AI Prediction Insights
+Modern 3D Visualization
