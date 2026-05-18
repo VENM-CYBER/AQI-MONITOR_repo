@@ -1,80 +1,43 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7TKsQ8UQ4T9P4QIo/giphy.gif" width="100%" alt="3D AQI Banner"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" alt="AQI Banner"/>
 
-# 🌍 AQI VISUALIZER  
-### ⚡ AI-Powered 3D Air Quality Monitoring Dashboard
+# 🌍 AQI Visualizer
 
-<img src="https://img.shields.io/badge/React.js-3D_UI-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask" />
-<img src="https://img.shields.io/badge/AI-Prediction-00C853?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Interactive-Charts-7C4DFF?style=for-the-badge" />
+### *AI-Powered Air Quality Monitoring Dashboard*
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Monitor+Air+Quality+in+Real-Time;Analyze+AQI+with+Interactive+Charts;Predict+AQI+Using+AI" />
 
 <br>
 
-### ✨ *Monitor • Predict • Visualize Air Quality in 3D*
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00E5FF&center=true&vCenter=true&width=700&lines=Real-Time+AQI+Monitoring;AI-Powered+Predictions;Interactive+3D+Analytics;Modern+Full-Stack+Dashboard" />
-
-</div>
-
----
-
-## 🚀 3D Features
-
-<table align="center">
-<tr>
-<td align="center">🌆</td>
-<td><b>Multi-City AQI Monitoring</b></td>
-</tr>
-<tr>
-<td align="center">📊</td>
-<td><b>Interactive 3D Charts</b></td>
-</tr>
-<tr>
-<td align="center">🤖</td>
-<td><b>AI AQI Prediction Engine</b></td>
-</tr>
-<tr>
-<td align="center">🔍</td>
-<td><b>Smart Search System</b></td>
-</tr>
-<tr>
-<td align="center">📱</td>
-<td><b>Responsive Glassmorphism UI</b></td>
-</tr>
-<tr>
-<td align="center">⚡</td>
-<td><b>High Performance Rendering</b></td>
-</tr>
-</table>
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-| Frontend | Backend | AI/ML | Visualization |
-|---------|---------|------|--------------|
-| React.js | Flask | Scikit-learn | Recharts |
-| Tailwind CSS | REST API | LightGBM | Chart.js |
+![React](https://img.shields.io/badge/React.js-Frontend-blue?style=for-the-badge&logo=react)
+![Flask](https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge&logo=flask)
+![AI](https://img.shields.io/badge/AI-Powered-green?style=for-the-badge)
 
 </div>
 
 ---
 
-# 🎥 3D Dashboard Preview
+## Features
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="85%" />
-
-</div>
+✨ Multi-city AQI monitoring  
+📊 Interactive data visualizations  
+🤖 AI-based AQI prediction  
+🔍 Smart city search  
+📱 Fully responsive UI  
+⚡ Fast full-stack performance  
 
 ---
 
-# ⚙️ Installation
+## Tech Stack
+
+**Frontend:** React.js, Tailwind CSS, Recharts  
+**Backend:** Flask, REST API  
+**Machine Learning:** Scikit-learn  
+
+---
+
+## Installation
 
 ### Clone Repository
 
@@ -101,46 +64,32 @@ npm start
 
 ---
 
-# 🌐 Live Demo
+## Usage
 
-<div align="center">
-
-### 🚀 Coming Soon
-
-</div>
-
----
-
-# 🔮 Future Enhancements
-
-✨ Global AQI Heatmap  
-🔔 Smart Alerts  
-📱 Mobile App  
-🧠 Deep Learning Forecasting  
-🌍 Real-Time Satellite AQI Tracking  
+- Search any city  
+- Analyze AQI trends  
+- View pollutant insights  
+- Predict AQI using AI  
 
 ---
 
-# 📈 Project Stats
+## Future Improvements
 
-<div align="center">
-
-![GitHub stars](https://img.shields.io/github/stars/VENM-CYBER/AQI-MONITOR_repo?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/VENM-CYBER/AQI-MONITOR_repo?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/VENM-CYBER/AQI-MONITOR_repo?style=for-the-badge)
-
-</div>
+🌍 Global AQI heatmap  
+🔔 Smart alerts  
+📱 Mobile app  
+🧠 Advanced AI forecasting  
 
 ---
 
 <div align="center">
 
-# 👨‍💻 Built with ❤️ by **Archit Deep**
+## Built by **Archit Deep**
 
-### *Building Smart AI Systems for a Better Future*
+*AI • Web Development • Smart Systems*
 
-<img src="https://komarev.com/ghpvc/?username=VENM-CYBER&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=VENM-CYBER&style=for-the-badge&color=blue" />
 
-⭐ **Star this repository if you like it**
+⭐ Star this repository if you like it
 
 </div>
